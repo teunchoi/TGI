@@ -11,7 +11,7 @@
 This repository contains the official project page for:
 
 **Anchoring and Rescaling Attention for Semantically Coherent Inbetweening**  
-*Tae Eun Choi, Sumin Shim, Junhyeok Kim, Seong Jae Hwang*  
+*Tae Eun Choi\*, Sumin Shim\*, Junhyeok Kim, Seong Jae Hwang*  
 Yonsei University
 
 We propose a **training-free** approach for **text-conditioned generative inbetweening (GI)**, where intermediate frames are generated from the **first frame**, **last frame**, and a **text prompt**.
