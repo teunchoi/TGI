@@ -127,14 +127,3 @@ This leads to more coherent inbetweening under difficult scenarios such as **dyn
 - [ ] Demo videos
 - [ ] BibTeX
 
----
-
-## Citation
-
-```bibtex
-@inproceedings{choi2026anchoring,
-  title={Anchoring and Rescaling Attention for Semantically Coherent Inbetweening},
-  author={Choi, Tae Eun and Shim, Sumin and Kim, Junhyeok and Hwang, Seong Jae},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2026}
-}
