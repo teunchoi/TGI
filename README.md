@@ -2,7 +2,6 @@
 
 # Anchoring and Rescaling Attention for Semantically Coherent Inbetweening
 
----
 
 ## CVPR 2026
 
@@ -15,6 +14,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2603.17651-b31b1b?style=flat-square)](https://arxiv.org/abs/2603.17651)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-f4b400?style=flat-square)](https://huggingface.co/datasets/use08174/TGI-Benchmark)
 
+</div>
 
 ## Overview
 
@@ -28,7 +28,6 @@ The **TGI-Bench** dataset is available on Hugging Face:
 
 [https://huggingface.co/datasets/use08174/TGI-Benchmark](https://huggingface.co/datasets/use08174/TGI-Benchmark)
 
----
 
 ## Installation
 
@@ -51,7 +50,6 @@ pip install -r requirements.txt
 
 Once this is done, the environment setup is complete.
 
----
 
 ## Run Inference
 
@@ -61,7 +59,6 @@ To run inference with the default settings:
 python inference.py
 ```
 
----
 
 ## Optional Arguments
 
