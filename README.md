@@ -10,9 +10,9 @@
 
 ## Yonsei University
 
-[![Project Page](https://img.shields.io/badge/Project-Website-lightgrey?style=flat-square)](https://teunchoi.github.io/TGI-project-page/)
-[![arXiv](https://img.shields.io/badge/arXiv-2603.17651-b31b1b?style=flat-square)](https://arxiv.org/abs/2603.17651)
-[![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-f4b400?style=flat-square)](https://huggingface.co/datasets/use08174/TGI-Benchmark)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://teunchoi.github.io/TGI-project-page/) 
+[![arXiv](https://img.shields.io/badge/arXiv-2603.17651-b31b1b)](https://arxiv.org/abs/2603.17651) 
+[![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-ffcc4d)](https://huggingface.co/datasets/use08174/TGI-Benchmark)
 
 </div>
 
