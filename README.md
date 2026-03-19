@@ -9,6 +9,7 @@ Tae Eun Choi* · Sumin Shim* · Junhyeok Kim · Seong Jae Hwang
 </h3>
 
 <br>
+
 [![Project Website](https://img.shields.io/badge/Project-Page-blue)](https://teunchoi.github.io/TGI-project-page/) 
 [![arXiv](https://img.shields.io/badge/arXiv-2603.17651-b31b1b)](https://arxiv.org/abs/2603.17651) 
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-ffcc4d)](https://huggingface.co/datasets/use08174/TGI-Benchmark)
